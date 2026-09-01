@@ -2,13 +2,13 @@
 
 # 🌌 Bienvenido a mi Universo Digital
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CODE%20•%20CREATE%20•%20INNOVATE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transformando%20ideas%20en%20realidad%20digital&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CODE%20•%20CREATE%20•%20INNOVATE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Transformando%20ideas%20en%20soluciones%20digitales&descAlignY=55&descAlign=50" width="100%"/>
 
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Desarrollador+Full+Stack;Arquitecto+de+Soluciones;Entusiasta+de+Open+Source;Siempre+Aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&color=00F7F7\&center=true\&vCenter=true\&multiline=false\&repeat=true\&width=650\&lines=Desarrollador+de+Software;Backend+%7C+Python+%7C+.NET;Construyendo+APIs+REST;Siempre+Aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,21 +24,38 @@
 Developer:
   name: "Ivan Blanco"
   located_in: "Medellín, Colombia 🇨🇴"
-  current_role: "Software Engineer"
-  education: "Ingeniero de Sistemas"
-  
-  interests:
-    - "Inteligencia Artificial & Machine Learning"
-    - "Cloud Architecture & DevOps"
-    - "Desarrollo Web Moderno"
-    - "Open Source Contribution"
-    
+  current_role: "Estudiante de Desarrollo de Software"
+  education: "Tecnología en Desarrollo de Software - 6° Semestre"
+
+  focus:
+    - "Desarrollo Backend"
+    - "APIs REST"
+    - "Bases de Datos SQL"
+    - "Desarrollo de Software"
+
+  technologies:
+    - "Python"
+    - "FastAPI"
+    - ".NET / C#"
+    - "Java"
+    - "SQL"
+
   currently_learning:
-    - "Kubernetes & Microservicios"
-    - "Web3 & Blockchain"
-    - "System Design Patterns"
-    
-  fun_fact: "Pienso en código mientras tomo café ☕"
+    - "Metodologías Ágiles - Scrum"
+    - "Buenas prácticas de desarrollo"
+    - "Nuevas herramientas y tecnologías"
+
+  interests:
+    - "Desarrollo Backend"
+    - "Diseño y gestión de bases de datos"
+    - "Inteligencia Artificial aplicada al desarrollo"
+    - "Documentación técnica"
+
+  mindset:
+    - "Aprendizaje continuo"
+    - "Resolución de problemas"
+    - "Trabajo en equipo"
+    - "Proactividad"
 ```
 
 ---
@@ -53,46 +70,77 @@ Developer:
 
 ### 💻 Lenguajes de Programación
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🎨 Frontend
+### ⚙️ Backend & APIs
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge\&logo=python\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-### ⚙️ Backend & Databases
+### 🗄️ Bases de Datos
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### 🎨 Diseño & Frontend
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-### 🤖 AI & Data Science
+### 🔧 Herramientas & Control de Versiones
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+### 🧠 Conceptos & Metodologías
+
+![POO](https://img.shields.io/badge/POO-333333?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-333333?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-333333?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge\&logo=scrumalliance\&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+## 🤖 Inteligencia Artificial
+
+</div>
+
+```text
+Utilizo herramientas de Inteligencia Artificial como apoyo al
+desarrollo de software, investigación, aprendizaje de nuevas
+tecnologías, análisis de problemas y optimización de procesos.
+
+La utilizo como herramienta de apoyo, aplicando criterio crítico
+para analizar, comprender y validar los resultados obtenidos.
+```
+
+---
+
+<div align="center">
+
+## 📚 Actualmente Aprendiendo
+
+</div>
+
+```yaml
+Learning:
+  - "Scrum y metodologías ágiles"
+  - "Buenas prácticas de desarrollo de software"
+  - "Arquitectura y diseño de APIs"
+  - "Fortalecimiento de Python y C#"
+  - "Nuevas herramientas de Inteligencia Artificial"
+```
 
 ---
 
@@ -107,15 +155,7 @@ Developer:
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blocweb&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Blocweb&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Blocweb\&theme=tokyonight\&hide_border=true\&background=0d1117\&ring=00f7f7\&fire=00f7f7\&currStreakLabel=00f7f7)](https://git.io/streak-stats)
 
 </div>
 
@@ -129,23 +169,21 @@ Developer:
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/proyecto1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=proyecto1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
+<a href="https://github.com/Blocweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=FiApp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/TU_USUARIO/proyecto2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=proyecto2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
+
+<a href="https://github.com/Blocweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=breast_app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
 </a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/proyecto3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=proyecto3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/TU_USUARIO/proyecto4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Blocweb&repo=proyecto4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-</a>
+> 💡 Exploro diferentes tecnologías y construyo proyectos como parte de mi proceso de aprendizaje y formación profesional.
 
 </div>
 
@@ -155,7 +193,7 @@ Developer:
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blocweb&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=c9d1d9&area=true&area_color=00f7f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Blocweb\&theme=tokyo-night\&hide_border=true\&bg_color=0d1117\&color=00f7f7\&line=00f7f7\&point=c9d1d9\&area=true\&area_color=00f7f7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -170,20 +208,21 @@ Developer:
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Tu Nombre"
-        self.role = "Software Engineer"
-        self.language_spoken = ["es_CO", "en_US"]
-    
+        self.name = "Ivan Blanco"
+        self.role = "Software Developer"
+        self.focus = ["Backend", "APIs", "Databases"]
+
+    def mindset(self):
+        return [
+            "Aprendizaje continuo",
+            "Resolución de problemas",
+            "Trabajo en equipo",
+            "Mejora continua"
+        ]
+
     def say_hi(self):
-        print("Gracias por visitar mi perfil. ¡Construyamos algo increíble juntos!")
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "☕ Café & Código",
-            "afternoon": "💻 Desarrollo & Debugging",
-            "evening": "📚 Aprendizaje continuo",
-            "night": "🌙 Side Projects"
-        }
+        print("Construyendo soluciones, aprendiendo y mejorando cada día 🚀")
+
 
 me = Developer()
 me.say_hi()
@@ -195,20 +234,11 @@ me.say_hi()
 
 ## 🤝 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Blocweb-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Blocweb)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https:www.linkedin.com/in/ivan-blanco-7024a42b7)
 
----
-
-<div align="center">
-
-### 💭 Quote del Día
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanblanco1131223@correo.itm.edu.co)
 
 </div>
 
@@ -234,8 +264,9 @@ me.say_hi()
 
 <div align="center">
 
-**💙 Hecho con amor y mucho ☕ desde Medellín, Colombia**
+**💙 Hecho con pasión, aprendizaje y mucho ☕ desde Medellín, Colombia**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
